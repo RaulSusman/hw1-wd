@@ -1,3 +1,9 @@
+*{
+    box-sizing: border-box;
+    line-height: 1.2;
+    letter-spacing: 0.04em;
+}
+
 body{
     background-color: rgb(93, 168, 243);
     text-align: center;
